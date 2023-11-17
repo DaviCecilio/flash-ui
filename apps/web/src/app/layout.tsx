@@ -15,7 +15,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={GeistSans.className}>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased bg-mirage-50 mirage-950">{children}</body>
     </html>
   )
 }

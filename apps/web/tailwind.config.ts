@@ -16,6 +16,10 @@ const config: Config = {
     fontSize: fonts.fontSizes,
     fontWeight: fonts.fontWeights,
     lineHeight: fonts.lineHeights,
+
+    boxShadow: {
+      lg: '0px 0.7699px 2.71728px 0px rgba(0, 0, 0, 0.02), 0px 2.12866px 7.51293px 0px rgba(0, 0, 0, 0.03), 0px 5.125px 18.08824px 0px rgba(0, 0, 0, 0.04), 0px 17px 60px 0px rgba(0, 0, 0, 0.06);',
+    },
   },
   plugins: [],
 }

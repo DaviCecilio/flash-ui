@@ -1,3 +1,5 @@
+import { colors } from 'tokens'
+
 export default function Home() {
-  return <h1>Ola Mundo</h1>
+  return <div>Helooooooooooooooooooooooooooooooooo</div>
 }
